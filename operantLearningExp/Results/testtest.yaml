@@ -1,0 +1,9686 @@
+%YAML:1.0
+---
+FrameNum: 1
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 2
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 3
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 4
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 5
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 6
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 7
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 8
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 9
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 10
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 11
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 12
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 13
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 14
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 15
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 16
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 17
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 18
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 19
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 20
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 21
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 22
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 23
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 24
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 25
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 26
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 27
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 28
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 29
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 30
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 31
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 32
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 33
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 34
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 35
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 36
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 37
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 38
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 39
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 40
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 41
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 42
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 43
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 44
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 45
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 46
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 47
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 48
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 49
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 50
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 51
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 52
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 53
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 54
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 55
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 56
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 57
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 58
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 59
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 60
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 61
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 62
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 63
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 64
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 65
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 66
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 67
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 68
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 69
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 70
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 71
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 72
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 0, 0 ]
+HeadingAngle: -360
+FrameNum: 73
+PatternIdx: 0
+Head: [ 585, 541 ]
+Center: [ 571, 540 ]
+Tail: [ 571, 538 ]
+HeadingAngle: 4
+FrameNum: 74
+PatternIdx: 0
+Head: [ 165, 299 ]
+Center: [ 165, 296 ]
+Tail: [ 165, 295 ]
+HeadingAngle: 90
+FrameNum: 75
+PatternIdx: 0
+Head: [ 123, 522 ]
+Center: [ 133, 503 ]
+Tail: [ 133, 501 ]
+HeadingAngle: 117
+FrameNum: 76
+PatternIdx: 0
+Head: [ 542, 597 ]
+Center: [ 537, 594 ]
+Tail: [ 539, 595 ]
+HeadingAngle: 30
+FrameNum: 77
+PatternIdx: 0
+Head: [ 56, 394 ]
+Center: [ 423, 390 ]
+Tail: [ 461, 731 ]
+HeadingAngle: 179
+FrameNum: 78
+PatternIdx: 0
+Head: [ 519, 200 ]
+Center: [ 518, 217 ]
+Tail: [ 520, 218 ]
+HeadingAngle: -86
+FrameNum: 79
+PatternIdx: 0
+Head: [ 433, 495 ]
+Center: [ 431, 498 ]
+Tail: [ 432, 498 ]
+HeadingAngle: -56
+FrameNum: 80
+PatternIdx: 0
+Head: [ 317, 443 ]
+Center: [ 262, 587 ]
+Tail: [ 262, 587 ]
+HeadingAngle: -69
+FrameNum: 81
+PatternIdx: 0
+Head: [ 658, 45 ]
+Center: [ 665, 43 ]
+Tail: [ 665, 42 ]
+HeadingAngle: 164
+FrameNum: 82
+PatternIdx: 0
+Head: [ 656, 61 ]
+Center: [ 670, 48 ]
+Tail: [ 668, 49 ]
+HeadingAngle: 137
+FrameNum: 83
+PatternIdx: 0
+Head: [ 205, 125 ]
+Center: [ 200, 125 ]
+Tail: [ 200, 124 ]
+HeadingAngle: 0
+FrameNum: 84
+PatternIdx: 0
+Head: [ 184, 298 ]
+Center: [ 181, 301 ]
+Tail: [ 181, 301 ]
+HeadingAngle: -45
+FrameNum: 85
+PatternIdx: 0
+Head: [ 617, 521 ]
+Center: [ 638, 514 ]
+Tail: [ 639, 515 ]
+HeadingAngle: 161
+FrameNum: 86
+PatternIdx: 0
+Head: [ 668, 34 ]
+Center: [ 658, 40 ]
+Tail: [ 658, 40 ]
+HeadingAngle: -30
+FrameNum: 87
+PatternIdx: 0
+Head: [ 662, 36 ]
+Center: [ 652, 43 ]
+Tail: [ 652, 44 ]
+HeadingAngle: -34
+FrameNum: 88
+PatternIdx: 0
+Head: [ 10, 630 ]
+Center: [ 7, 611 ]
+Tail: [ 6, 612 ]
+HeadingAngle: 81
+FrameNum: 89
+PatternIdx: 0
+Head: [ 795, 777 ]
+Center: [ 794, 773 ]
+Tail: [ 794, 773 ]
+HeadingAngle: 75
+FrameNum: 90
+PatternIdx: 0
+Head: [ 455, 243 ]
+Center: [ 458, 239 ]
+Tail: [ 457, 239 ]
+HeadingAngle: 126
+FrameNum: 91
+PatternIdx: 0
+Head: [ 124, 673 ]
+Center: [ 112, 687 ]
+Tail: [ 111, 686 ]
+HeadingAngle: -49
+FrameNum: 92
+PatternIdx: 0
+Head: [ 175, 710 ]
+Center: [ 172, 721 ]
+Tail: [ 174, 721 ]
+HeadingAngle: -74
+FrameNum: 93
+PatternIdx: 0
+Head: [ 505, 643 ]
+Center: [ 478, 651 ]
+Tail: [ 478, 651 ]
+HeadingAngle: -16
+FrameNum: 94
+PatternIdx: 0
+Head: [ 784, 381 ]
+Center: [ 423, 389 ]
+Tail: [ 465, 722 ]
+HeadingAngle: -1
+FrameNum: 95
+PatternIdx: 0
+Head: [ 753, 315 ]
+Center: [ 744, 321 ]
+Tail: [ 743, 320 ]
+HeadingAngle: -33
+FrameNum: 96
+PatternIdx: 0
+Head: [ 58, 404 ]
+Center: [ 419, 390 ]
+Tail: [ 483, 282 ]
+HeadingAngle: 177
+FrameNum: 97
+PatternIdx: 0
+Head: [ 214, 666 ]
+Center: [ 217, 665 ]
+Tail: [ 218, 665 ]
+HeadingAngle: 161
+FrameNum: 98
+PatternIdx: 0
+Head: [ 739, 215 ]
+Center: [ 740, 221 ]
+Tail: [ 740, 221 ]
+HeadingAngle: -99
+FrameNum: 99
+PatternIdx: 0
+Head: [ 115, 145 ]
+Center: [ 96, 166 ]
+Tail: [ 96, 166 ]
+HeadingAngle: -47
+FrameNum: 100
+PatternIdx: 0
+Head: [ 620, 176 ]
+Center: [ 617, 179 ]
+Tail: [ 616, 178 ]
+HeadingAngle: -45
+FrameNum: 101
+PatternIdx: 0
+Head: [ 523, 210 ]
+Center: [ 520, 202 ]
+Tail: [ 520, 202 ]
+HeadingAngle: 69
+FrameNum: 102
+PatternIdx: 0
+Head: [ 787, 370 ]
+Center: [ 418, 381 ]
+Tail: [ 395, 40 ]
+HeadingAngle: -1
+FrameNum: 103
+PatternIdx: 0
+Head: [ 724, 174 ]
+Center: [ 728, 172 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 104
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 105
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 106
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 107
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 108
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 109
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 110
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 111
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 112
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 113
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 114
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 115
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 116
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 117
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 118
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 119
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 120
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 121
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 122
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 123
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 124
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 125
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 126
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 127
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 128
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 129
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 130
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 131
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 132
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 133
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 134
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 135
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 136
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 137
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 138
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 139
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 140
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 141
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 142
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 143
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 144
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 145
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 146
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 147
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 148
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 149
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 150
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 151
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 152
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 153
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 154
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 155
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 156
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 157
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 158
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 159
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 160
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 161
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 162
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 163
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 164
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 165
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 166
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 167
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 168
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 169
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 170
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 171
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 172
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 173
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 174
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 175
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 176
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 177
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 178
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 179
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 180
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 181
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 182
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 183
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 184
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 185
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 186
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 187
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 188
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 189
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 190
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 191
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 192
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 193
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 194
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 195
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 196
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 197
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 198
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 199
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 200
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 201
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 202
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 203
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 204
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 205
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 206
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 207
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 208
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 209
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 210
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 211
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 212
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 213
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 214
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 215
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 216
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 217
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 218
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 219
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 220
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 221
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 222
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 223
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 224
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 225
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 226
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 227
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 228
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 229
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 230
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 231
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 232
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 233
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 234
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 235
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 236
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 237
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 238
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 239
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 240
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 241
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 242
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 243
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 244
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 245
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 246
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 247
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 248
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 249
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 250
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 251
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 252
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 253
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 254
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 255
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 256
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 257
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 258
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 259
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 260
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 261
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 262
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 263
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 264
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 265
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 266
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 267
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 268
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 269
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 270
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 271
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 272
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 273
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 274
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 275
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 276
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 277
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 278
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 279
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 280
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 281
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 282
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 283
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 284
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 285
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 286
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 287
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 288
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 289
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 290
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 291
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 292
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 293
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 294
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 295
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 296
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 297
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 298
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 299
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 300
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 301
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 302
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 303
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 304
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 305
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 306
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 307
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 308
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 309
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 310
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 311
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 312
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 313
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 314
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 315
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 316
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 317
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 318
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 319
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 320
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 321
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 322
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 323
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 324
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 325
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 326
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 327
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 328
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 329
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 330
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 331
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 332
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 333
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 334
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 335
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 336
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 337
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 338
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 339
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 340
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 341
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 342
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 343
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 344
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 345
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 346
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 347
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 348
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 349
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 350
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 351
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 352
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 353
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 354
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 355
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 356
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 357
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 358
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 359
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 360
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 361
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 362
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 363
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 364
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 365
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 366
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 367
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 368
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 369
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 370
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 371
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 372
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 373
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 374
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 375
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 376
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 377
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 378
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 379
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 380
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 381
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 382
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 383
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 384
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 385
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 386
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 387
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 388
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 389
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 390
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 391
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 392
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 393
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 394
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 395
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 396
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 397
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 398
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 399
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 400
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 401
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 402
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 403
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 404
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 405
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 406
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 407
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 408
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 409
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 410
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 411
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 412
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 413
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 414
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 415
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 416
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 417
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 418
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 419
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 420
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 421
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 422
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 423
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 424
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 425
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 426
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 427
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 428
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 429
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 430
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 431
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 432
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 433
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 434
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 435
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 436
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 437
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 438
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 439
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 440
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 441
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 442
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 443
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 444
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 445
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 446
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 447
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 448
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 449
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 450
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 451
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 452
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 453
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 454
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 455
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 456
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 457
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 458
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 459
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 460
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 461
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 462
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 463
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 464
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 465
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 466
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 467
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 468
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 469
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 470
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 471
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 472
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 473
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 474
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 475
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 476
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 477
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 478
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 479
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 480
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 481
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 482
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 483
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 484
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 485
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 486
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 487
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 488
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 489
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 490
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 491
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 492
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 493
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 494
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 495
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 496
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 497
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 498
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 499
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 500
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 501
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 502
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 503
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 504
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 505
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 506
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 507
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 508
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 509
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 510
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 511
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 512
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 513
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 514
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 515
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 516
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 517
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 518
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 519
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 520
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 521
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 522
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 523
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 524
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 525
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 526
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 527
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 528
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 529
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 530
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 531
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 532
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 533
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 534
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 535
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 536
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 537
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 538
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 539
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 540
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 541
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 542
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 543
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 544
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 545
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 546
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 547
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 548
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 549
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 550
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 551
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 552
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 553
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 554
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 555
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 556
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 557
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 558
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 559
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 560
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 561
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 562
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 563
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 564
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 565
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 566
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 567
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 568
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 569
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 570
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 571
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 572
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 573
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 574
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 575
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 576
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 577
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 578
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 579
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 580
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 581
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 582
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 583
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 584
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 585
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 586
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 587
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 588
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 589
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 590
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 591
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 592
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 593
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 594
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 595
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 596
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 597
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 598
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 599
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 600
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 601
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 602
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 603
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 604
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 605
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 606
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 607
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 608
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 609
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 610
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 611
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 612
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 613
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 614
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 615
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 616
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 617
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 618
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 619
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 620
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 621
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 622
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 623
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 624
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 625
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 626
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 627
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 628
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 629
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 630
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 631
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 632
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 633
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 634
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 635
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 636
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 637
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 638
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 639
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 640
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 641
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 642
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 643
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 644
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 645
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 646
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 647
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 648
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 649
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 650
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 651
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 652
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 653
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 654
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 655
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 656
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 657
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 658
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 659
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 660
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 661
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 662
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 663
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 664
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 665
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 666
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 667
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 668
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 669
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 670
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 671
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 672
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 673
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 674
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 675
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 676
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 677
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 678
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 679
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 680
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 681
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 682
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 683
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 684
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 685
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 686
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 687
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 688
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 689
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 690
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 691
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 692
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 693
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 694
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 695
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 696
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 697
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 698
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 699
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 700
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 701
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 702
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 703
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 704
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 705
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 706
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 707
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 708
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 709
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 710
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 711
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 712
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 713
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 714
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 715
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 716
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 717
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 718
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 719
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 720
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 721
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 722
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 723
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 724
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 725
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 726
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 727
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 728
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 729
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 730
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 731
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 732
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 733
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 734
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 735
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 736
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 737
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 738
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 739
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 740
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 741
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 742
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 743
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 744
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 745
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 746
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 747
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 748
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 749
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 750
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 751
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 752
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 753
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 754
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 755
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 756
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 757
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 758
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 759
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 760
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 761
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 762
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 763
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 764
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 765
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 766
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 767
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 768
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 769
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 770
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 771
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 772
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 773
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 774
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 775
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 776
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 777
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 778
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 779
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 780
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 781
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 782
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 783
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 784
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 785
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 786
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 787
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 788
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 789
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 790
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 791
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 792
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 793
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 794
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 795
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 796
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 797
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 798
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 799
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 800
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 801
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 802
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 803
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 804
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 805
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 806
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 807
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 808
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 809
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 810
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 811
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 812
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 813
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 814
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 815
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 816
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 817
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 818
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 819
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 820
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 821
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 822
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 823
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 824
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 825
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 826
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 827
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 828
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 829
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 830
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 831
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 832
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 833
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 834
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 835
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 836
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 837
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 838
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 839
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 840
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 841
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 842
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 843
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 844
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 845
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 846
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 847
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 848
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 849
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 850
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 851
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 852
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 853
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 854
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 855
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 856
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 857
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 858
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 859
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 860
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 861
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 862
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 863
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 864
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 865
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 866
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 867
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 868
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 869
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 870
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 871
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 872
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 873
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 874
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 875
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 876
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 877
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 878
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 879
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 880
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 881
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 882
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 883
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 884
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 885
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 886
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 887
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 888
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 889
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 890
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 891
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 892
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 893
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 894
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 895
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 896
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 897
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 898
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 899
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 900
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 901
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 902
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 903
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 904
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 905
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 906
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 907
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 908
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 909
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 910
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 911
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 912
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 913
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 914
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 915
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 916
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 917
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 918
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 919
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 920
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 921
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 922
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 923
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 924
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 925
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 926
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 927
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 928
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 929
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 930
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 931
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 932
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 933
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 934
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 935
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 936
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 937
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 938
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 939
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 940
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 941
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 942
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 943
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 944
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 945
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 946
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 947
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 948
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 949
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 950
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 951
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 952
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 953
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 954
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 955
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 956
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 957
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 958
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 959
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 960
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 961
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 962
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 963
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 964
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 965
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 966
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 967
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 968
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 969
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 970
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 971
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 972
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 973
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 974
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 975
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 976
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 977
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 978
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 979
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 980
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 981
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 982
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 983
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 984
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 985
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 986
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 987
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 988
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 989
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 990
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 991
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 992
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 993
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 994
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 995
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 996
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 997
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 998
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 999
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1000
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1001
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1002
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1003
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1004
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1005
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1006
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1007
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1008
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1009
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1010
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1011
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1012
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1013
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1014
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1015
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1016
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1017
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1018
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1019
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1020
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1021
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1022
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1023
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1024
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1025
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1026
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1027
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1028
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1029
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1030
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1031
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1032
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1033
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1034
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1035
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1036
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1037
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1038
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1039
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1040
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1041
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1042
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1043
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1044
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1045
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1046
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1047
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1048
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1049
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1050
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1051
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1052
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1053
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1054
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1055
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1056
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1057
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1058
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1059
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1060
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1061
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1062
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1063
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1064
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1065
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1066
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1067
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1068
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1069
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1070
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1071
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1072
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1073
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1074
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1075
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1076
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1077
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1078
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1079
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1080
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1081
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1082
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1083
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1084
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1085
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1086
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1087
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1088
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1089
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1090
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1091
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1092
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1093
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1094
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1095
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1096
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1097
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1098
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1099
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1100
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1101
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1102
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1103
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1104
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1105
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1106
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1107
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1108
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1109
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1110
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1111
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1112
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1113
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1114
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1115
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1116
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1117
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1118
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1119
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1120
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1121
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1122
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1123
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1124
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1125
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1126
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1127
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1128
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1129
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1130
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1131
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1132
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1133
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1134
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1135
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1136
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1137
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1138
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1139
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1140
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1141
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1142
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1143
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1144
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1145
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1146
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1147
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1148
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1149
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1150
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1151
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1152
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1153
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1154
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1155
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1156
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1157
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1158
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1159
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1160
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1161
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1162
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1163
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1164
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1165
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1166
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1167
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1168
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1169
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1170
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1171
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1172
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1173
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1174
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1175
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1176
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1177
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1178
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1179
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1180
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1181
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1182
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1183
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1184
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1185
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1186
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1187
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1188
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1189
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1190
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1191
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1192
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1193
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1194
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1195
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1196
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1197
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1198
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1199
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1200
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1201
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1202
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1203
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1204
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1205
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1206
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1207
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1208
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1209
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1210
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1211
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1212
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1213
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1214
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1215
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1216
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1217
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1218
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1219
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1220
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1221
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1222
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1223
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1224
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1225
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1226
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1227
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1228
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1229
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1230
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1231
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1232
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1233
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1234
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1235
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1236
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1237
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1238
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1239
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1240
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1241
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1242
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1243
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1244
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1245
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1246
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1247
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1248
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1249
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1250
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1251
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1252
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1253
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1254
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1255
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1256
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1257
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1258
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1259
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1260
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1261
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1262
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1263
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1264
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1265
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1266
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1267
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1268
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1269
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1270
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1271
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1272
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1273
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1274
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1275
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1276
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1277
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1278
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1279
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1280
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1281
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1282
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1283
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1284
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1285
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1286
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1287
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1288
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1289
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1290
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1291
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1292
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1293
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1294
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1295
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1296
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1297
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1298
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1299
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1300
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1301
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1302
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1303
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1304
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1305
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1306
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1307
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1308
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1309
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1310
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1311
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1312
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1313
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1314
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1315
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1316
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1317
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1318
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1319
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1320
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1321
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1322
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1323
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1324
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1325
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1326
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1327
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1328
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1329
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1330
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1331
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1332
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1333
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1334
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1335
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1336
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1337
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1338
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1339
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1340
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1341
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1342
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1343
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1344
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1345
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1346
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1347
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1348
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1349
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1350
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1351
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1352
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1353
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1354
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1355
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1356
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1357
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1358
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1359
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1360
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1361
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1362
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1363
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1364
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1365
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1366
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1367
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1368
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1369
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1370
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1371
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1372
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1373
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1374
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1375
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1376
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1377
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1378
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1379
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1380
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1381
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1382
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1383
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1384
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1385
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1386
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1387
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1388
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1389
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1390
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1391
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1392
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1393
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1394
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1395
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1396
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1397
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1398
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1399
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1400
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1401
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1402
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1403
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1404
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1405
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1406
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1407
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1408
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1409
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1410
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1411
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1412
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1413
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1414
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1415
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1416
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1417
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1418
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1419
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1420
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1421
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1422
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1423
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1424
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1425
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1426
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1427
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1428
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1429
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1430
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1431
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1432
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1433
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1434
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1435
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1436
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1437
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1438
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1439
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1440
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1441
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1442
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1443
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1444
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1445
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1446
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1447
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1448
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1449
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1450
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1451
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1452
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1453
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1454
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1455
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1456
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1457
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1458
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1459
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1460
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1461
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1462
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1463
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1464
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1465
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1466
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1467
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1468
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1469
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1470
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1471
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1472
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1473
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1474
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1475
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1476
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1477
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1478
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1479
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1480
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1481
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1482
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1483
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1484
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1485
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1486
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1487
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1488
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1489
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1490
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1491
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1492
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1493
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1494
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1495
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1496
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1497
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1498
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1499
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1500
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1501
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1502
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1503
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1504
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1505
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1506
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1507
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1508
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1509
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1510
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1511
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1512
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1513
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1514
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1515
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1516
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1517
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1518
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1519
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1520
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1521
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1522
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1523
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1524
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1525
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1526
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1527
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1528
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1529
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1530
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1531
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1532
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1533
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1534
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1535
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1536
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1537
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1538
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1539
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1540
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1541
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1542
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1543
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1544
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1545
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1546
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1547
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1548
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1549
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1550
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1551
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1552
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1553
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1554
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1555
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1556
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1557
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1558
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1559
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1560
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1561
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1562
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1563
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1564
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1565
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1566
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1567
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1568
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1569
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1570
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1571
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1572
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1573
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1574
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1575
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1576
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1577
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1578
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1579
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1580
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1581
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1582
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1583
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1584
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1585
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1586
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1587
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1588
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1589
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1590
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1591
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1592
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1593
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1594
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1595
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1596
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1597
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1598
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1599
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1600
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1601
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1602
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1603
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1604
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1605
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1606
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1607
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1608
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1609
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1610
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1611
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1612
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1613
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
+FrameNum: 1614
+PatternIdx: 0
+Head: [ -1, -1 ]
+Center: [ -1, -1 ]
+Tail: [ 728, 173 ]
+HeadingAngle: 153
