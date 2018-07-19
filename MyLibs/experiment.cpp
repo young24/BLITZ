@@ -270,9 +270,9 @@ void ExperimentData::runOLexp()
 	const int blackoutEndTime = 9 * 60; // seconds, default 1 min
 	const int testEndTime = 11 * 60; // seconds, default 18 mins (including memory extinction period)
 	const int expEndTime = testEndTime;
+//aixbia
 
 	prepareBgImg(prepareTime);
-
 	while (idxFrame < numCameras * expEndTime * FRAMERATE )// giant grabbing loop
 	{
 		cams.grabPylonImg();
